@@ -1,0 +1,38 @@
+body {
+  overflow-x: hidden;
+}
+
+#main_container {
+  overflow: hidden;
+}
+
+#tweets_container {
+  overflow: hidden;
+}
+
+#tweets {
+  display: block;
+}
+
+.sticky-offset {
+    top: 120px !important;
+}
+
+.tweet {
+  display: block;
+  float: left;
+  height: 0px;
+  opacity: 0;
+  align: center;
+  margin: 0 0 0 0;
+}
+
+.tweet img {
+  float: left;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+#novella-read-more {
+    display: none;
+}
