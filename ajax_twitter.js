@@ -216,7 +216,7 @@ function add_tweet(id) {
     console.log("image");
 
     jQuery(function($){
-      $("#tweets").prepend("<div id='tweet_" + "1" + "' class='tweet'><img src='https://media.newyorker.com/photos/5bce242a60e70c2cc64189ed/master/w_649,c_limit/Mead-Brexit-Peoples-March.jpg'></div>");
+      $("#tweets").prepend("<div id='tweet_" + "1" + "' class='tweet'><img src='http://igor.gold.ac.uk/~mkeit001/wp/wp-content/uploads/2018/11/kahn.png'></div>");
     });
 
     jQuery(function($){
